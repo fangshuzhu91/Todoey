@@ -64,6 +64,8 @@
 		08E6A9D5226EA7BA00EBD329 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				08EB7C24226DA058009692FB /* LaunchScreen.storyboard */,
+				08EB7C22226DA058009692FB /* Assets.xcassets */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
@@ -92,8 +94,6 @@
 				08E6A9D3226EA78D00EBD329 /* Controllers */,
 				08E6A9D2226EA77C00EBD329 /* Data Model */,
 				08E6A9D5226EA7BA00EBD329 /* Supporting Files */,
-				08EB7C22226DA058009692FB /* Assets.xcassets */,
-				08EB7C24226DA058009692FB /* LaunchScreen.storyboard */,
 				08EB7C27226DA058009692FB /* Info.plist */,
 			);
 			path = Todoey;
